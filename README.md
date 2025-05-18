@@ -20,3 +20,7 @@ Another requirement is to have Python 3 installed and enable a virtual environme
 ```
 
 A guide to manually installing Qiskit can be found in the Qiskit documentation [here](https://qiskit.org/documentation/getting_started.html):
+
+## Open for Contribution 🚀
+
+This repository is open for contribution. If you have any notes or problems that you would like to add, please feel free to fork to your own repo and create a pull request with a new branch.
